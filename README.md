@@ -1,5 +1,5 @@
 # IML_AAT_AshritM
-Introduction to Machine Learning AAT 
+Introduction to Machine Learning Laboratory AAT 
 
 Name: Ashrit M
 
